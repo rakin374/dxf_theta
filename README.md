@@ -8,13 +8,13 @@
 
 ## To-Do List
 
-- [ ] **1. Depth Estimation / Macro Layering**
+- [ ] **1. Depth Estimation and Macro Layering**
   - [ ] Sub-task 1.1
   - [ ] Sub-task 1.2
-- [ ] **2. Instance Segmentation / Support Calculation**
+- [ ] **2. Image Segmentation and Support Calculation**
   - [ ] Sub-task 2.1
   - [ ] Sub-task 2.2
-- [ ] **3. Object coloring / Stacking**
+- [ ] **3. Object coloring and Stacking**
   - [ ] Sub-task 3.1
   - [ ] Sub-task 3.2
 - [x] **Completed Task** ✅
@@ -25,15 +25,15 @@
 
 This repository is organized by problem. Each problem folder contains a subproblem notebook (an `.ipynb` file) and a `data` folder for any relevant datasets.
 
-- **Depth Estimation / Macro Layering**
+- **Depth Estimation and Macro Layering**
   - [Subproblem Notebook](./Problem1/subproblem.ipynb)
   - **data/**
     - *(Data files go here)*
-- **Instance Segmentation / Support Calculation**
+- **Image Segmentation and Support Calculation**
   - [Subproblem Notebook](./Problem2/subproblem.ipynb)
   - **data/**
     - *(Data files go here)*
-- **Object Coloring / Stacking**
+- **Object Coloring and Stacking**
   - [Subproblem Notebook](./Problem3/subproblem.ipynb)
   - **data/**
     - *(Data files go here)*
