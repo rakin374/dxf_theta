@@ -25,7 +25,7 @@
 
 This repository is organized by problem. Each problem folder contains a subproblem notebook (an `.ipynb` file) and a `data` folder for any relevant datasets.
 
-- **Depth Estimation / macro layer/**
+- **Depth Estimation / Macro Layering**
   - [Subproblem Notebook](./Problem1/subproblem.ipynb)
   - **data/**
     - *(Data files go here)*
