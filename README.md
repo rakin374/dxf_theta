@@ -2,7 +2,9 @@
 
 (Template read me) 
 
-[example product](https://www.youtube.com/watch?v=ndvFYyMJpDI)
+[Inspiration product](https://paper-theater.com/about-en.html)
+
+[example product video](https://www.youtube.com/watch?v=ndvFYyMJpDI)
 
 [google docs (view only)](https://docs.google.com/document/d/1s_7PBN98MR_9QOTnMm6KD0d7QEiBQmDxHr9P2czCZdw/edit?usp=sharing)
 
