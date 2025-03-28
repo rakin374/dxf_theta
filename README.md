@@ -17,10 +17,10 @@
   - [ ] Sub-task 2.1
   - [ ] Sub-task 2.2
 - [ ] **3. Object coloring and Stacking**
-  - [ ] Sub-task 3.1
-  - [ ] Sub-task 3.2
-- [x] **Completed Task** ✅
-  - [x] Sub-task completed
+  - [x] Color Extraction
+  - [x] Edge Detection
+  - [ ] Element Extraction
+  - [ ] Element Layering
 
 
 ## Problems and Subproblems
